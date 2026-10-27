@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+***Added:***
+
+- Update binaries to use Python 3.12.16
+
 ## 0.40.0 - 2026-10-15
 
 ***Added:***
